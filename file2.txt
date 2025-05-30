@@ -1,2 +1,12 @@
 this is file 2 of git course
 adding more content to file 2
+
+swithing branch open a completely different timeline 
+meaning if one file exists in one branch in the other it won't exist
+
+while switching if a branch won't exists it will create one.
+
+switch -> newer method
+checkout - old method
+
+switch -c --> create and switch
