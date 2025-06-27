@@ -12,3 +12,11 @@ checkout - old method
 switch -c --> create and switch
 
 commit before changing head
+.gitkeep --> to keep that empty folder since git doesn't track empty
+folder
+
+git branch bug-fix
+creates a new branch named bug-fix, but does NOT switch to it.
+head always points towards the tip of the current branch.
+
+points added to understand not fast forward merge.

@@ -1,0 +1,5 @@
+minor bug fixes to the code
+
+git log --oneline
+
+adding footer note
