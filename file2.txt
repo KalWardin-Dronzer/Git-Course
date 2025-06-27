@@ -10,3 +10,5 @@ switch -> newer method
 checkout - old method
 
 switch -c --> create and switch
+
+commit before changing head
