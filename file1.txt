@@ -1,3 +1,5 @@
 this is file 1 for git course
 
 adding something  else
+
+learning about git diff
