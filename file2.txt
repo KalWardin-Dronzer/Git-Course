@@ -9,3 +9,5 @@ creates a new branch named bug-fix, but does NOT switch to it.
 head always points towards the tip of the current branch.
 
 points added to understand not fast forward merge.
+
+adding more txts to push 
